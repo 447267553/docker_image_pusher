@@ -1,1 +1,1 @@
- jammsen / docker-palworld-dedicated-server
+jammsen/palworld-dedicated-server:latest
