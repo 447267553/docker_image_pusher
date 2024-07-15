@@ -1,2 +1,3 @@
 jammsen/palworld-dedicated-server:latest
 pch18/baota
+btpanel/baota:lnmp
