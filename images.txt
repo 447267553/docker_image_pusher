@@ -1,7 +1,6 @@
-jammsen/palworld-dedicated-server:latest
+jammsen/palworld-dedicated-server
 pch18/baota
 btpanel/baota:lnmp
 moelin/1panel:latest
 b3log/siyuan
-icret/EasyImages2.0
 containrrr/watchtower
