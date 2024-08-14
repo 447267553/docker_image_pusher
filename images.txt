@@ -6,3 +6,4 @@ b3log/siyuan
 containrrr/watchtower
 frooodle/s-pdf
 laoyutang/clash-and-dashboard
+gdy666/lucky
