@@ -8,3 +8,4 @@ frooodle/s-pdf
 laoyutang/clash-and-dashboard
 gdy666/lucky
 jeessy/ddns-go
+boredazfcuk/icloudpd
