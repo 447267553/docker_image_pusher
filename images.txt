@@ -12,4 +12,5 @@
 #mtphotos/mt-photos
 #mtphotos/mt-photos-ai:onnx-latest
 #jrohy/webssh
-chishin/nginx-proxy-manager-zh
+#chishin/nginx-proxy-manager-zh
+joplin/server
