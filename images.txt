@@ -13,4 +13,5 @@
 #mtphotos/mt-photos-ai:onnx-latest
 #jrohy/webssh
 #chishin/nginx-proxy-manager-zh
-joplin/server
+#joplin/server
+postgres
