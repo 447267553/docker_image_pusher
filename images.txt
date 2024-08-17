@@ -21,5 +21,8 @@
 #lissy93/web-check
 #jason5ng32/myip
 #aceberg/watchyourports
-jgraph/drawio
-excalidraw/excalidraw
+#jgraph/drawio
+#excalidraw/excalidraw
+adolfintel/speedtest
+corentinth/it-tools
+qingfeng2336/it-tools
