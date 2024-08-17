@@ -20,3 +20,5 @@
 #journey0ad/bitmagnet-next-web
 enchant97/hasty-paste
 lissy93/web-check
+jason5ng32/myip
+aceberg/watchyourports
