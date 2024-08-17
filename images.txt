@@ -16,5 +16,6 @@
 #joplin/server
 #postgres
 #dreamacro/clash
-hslr/sun-panel
-journey0ad/bitmagnet-next-web
+#hslr/sun-panel
+#journey0ad/bitmagnet-next-web
+enchant97/hasty-paste
