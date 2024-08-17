@@ -14,4 +14,5 @@
 #jrohy/webssh
 #chishin/nginx-proxy-manager-zh
 #joplin/server
-postgres
+#postgres
+dreamacro/clash
