@@ -15,4 +15,6 @@
 #chishin/nginx-proxy-manager-zh
 #joplin/server
 #postgres
-dreamacro/clash
+#dreamacro/clash
+hslr/sun-panel
+journey0ad/bitmagnet-next-web
