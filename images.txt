@@ -26,3 +26,4 @@
 adolfintel/speedtest
 corentinth/it-tools
 qingfeng2336/it-tools
+networkstatic/iperf3
