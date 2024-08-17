@@ -18,6 +18,7 @@
 #dreamacro/clash
 #hslr/sun-panel
 #journey0ad/bitmagnet-next-web
-lissy93/web-check
-jason5ng32/myip
-aceberg/watchyourports
+#lissy93/web-check
+#jason5ng32/myip
+#aceberg/watchyourports
+jgraph/drawio
