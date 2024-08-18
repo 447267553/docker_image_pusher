@@ -23,7 +23,8 @@
 #aceberg/watchyourports
 #jgraph/drawio
 #excalidraw/excalidraw
-adolfintel/speedtest
-corentinth/it-tools
-qingfeng2336/it-tools
-networkstatic/iperf3
+#adolfintel/speedtest
+#corentinth/it-tools
+#qingfeng2336/it-tools
+#networkstatic/iperf3
+rustdesk/rustdesk-server-s6
