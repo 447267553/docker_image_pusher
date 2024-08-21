@@ -28,5 +28,6 @@
 #qingfeng2336/it-tools
 #networkstatic/iperf3
 #rustdesk/rustdesk-server
-deluan/navidrome
-xhongc/music_tag_web
+#deluan/navidrome
+#xhongc/music_tag_web
+lizardbyte/sunshine
