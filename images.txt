@@ -30,4 +30,3 @@
 #rustdesk/rustdesk-server
 #deluan/navidrome
 #xhongc/music_tag_web
-lizardbyte/sunshine
