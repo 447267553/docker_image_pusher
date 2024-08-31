@@ -30,4 +30,4 @@
 #rustdesk/rustdesk-server
 #deluan/navidrome
 #xhongc/music_tag_web
-jxxghp/nas-tools
+#jxxghp/nas-tools
