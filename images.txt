@@ -1,7 +1,7 @@
 #jammsen/palworld-dedicated-server
 #pch18/baota
 #btpanel/baota:lnmp
-#moelin/1panel:latest
+moelin/1panel:latest
 #b3log/siyuan
 #containrrr/watchtower
 #frooodle/s-pdf
