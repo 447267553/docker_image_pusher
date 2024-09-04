@@ -31,4 +31,5 @@
 #deluan/navidrome
 #xhongc/music_tag_web
 #jxxghp/nas-tools
-svenstaro/genact
+#svenstaro/genact
+qdtoday/qd
