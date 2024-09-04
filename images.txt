@@ -32,4 +32,5 @@
 #xhongc/music_tag_web
 #jxxghp/nas-tools
 #svenstaro/genact
-qdtoday/qd
+#qdtoday/qd
+whyour/qinglong
