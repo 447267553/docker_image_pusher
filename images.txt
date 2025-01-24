@@ -35,3 +35,4 @@ svenstaro/genact
 qdtoday/qd
 whyour/qinglong
 likeflyme/cloudbak
+youshandefeiyang/allinone
