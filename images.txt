@@ -8,7 +8,7 @@
 #laoyutang/clash-and-dashboard
 #gdy666/lucky
 #jeessy/ddns-go
-#boredazfcuk/icloudpd
+boredazfcuk/icloudpd
 #mtphotos/mt-photos
 #mtphotos/mt-photos-ai:onnx-latest
 #jrohy/webssh
