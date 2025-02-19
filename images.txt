@@ -40,3 +40,4 @@ yuexuangu/allinone_format
 zzzshanghai/doube-itv
 #corentinth/enclosed
 #talebook/talebook
+foamzou/melody:latest
