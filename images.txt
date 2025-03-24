@@ -41,3 +41,4 @@ yuexuangu/allinone_format
 #corentinth/enclosed
 #talebook/talebook
 #foamzou/melody:latest
+lobehub/lobe-chat
